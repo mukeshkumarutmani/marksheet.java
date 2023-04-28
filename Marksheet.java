@@ -42,7 +42,7 @@ class Marksheet {
             } else if (per[i] < 70) {
                 grade[i] = 'B';
             } else if (per[i] < 80) {
-                grade[i] = 'A';
+                grade[i] = 'A+';
             } else {
                 grade[i] = 'A' + '+';
             }
